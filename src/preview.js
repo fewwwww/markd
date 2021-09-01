@@ -19,9 +19,10 @@ const Preview = (props) => {
                 padding: '12px',
                 boxSizing: 'border-box',
                 overflow: 'auto',
-                backgroundColor: '#FBFBF3',
-                color: '#7FA4C6',
-                height: '100vh'
+                backgroundColor: '#272D3B',
+                color: '#C9CAC3',
+                height: 'auto',
+                minHeight: '100vh'
             }}
         >
             {markdown}
