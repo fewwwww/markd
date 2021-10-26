@@ -1,3 +1,3 @@
-built files in `/docs`.
+built files in `/docs`
 
 [original repo](https://github.com/craftzdog/electron-markdown-editor-tutorial)
